@@ -3,12 +3,64 @@
     <title>Resep Dapur Ibu</title>
     <link href="https://resepdapuribu.github.io/feed.xml" rel="self" />
     <link href="https://resepdapuribu.github.io" />
-    <updated>2023-01-29T11:53:11+07:00</updated>
+    <updated>2023-01-29T12:01:29+07:00</updated>
     <author>
         <name>Ibu</name>
     </author>
     <id>https://resepdapuribu.github.io</id>
 
+    <entry>
+        <title>Resep Ibu : Rendang Sumatera Barat</title>
+        <author>
+            <name>Ibu</name>
+        </author>
+        <link href="https://resepdapuribu.github.io/resep-ibu-rendang.html"/>
+        <id>https://resepdapuribu.github.io/resep-ibu-rendang.html</id>
+
+        <updated>2023-01-29T12:01:29+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Rendang adalah salah satu makanan tradisional Indonesia yang terkenal di seluruh dunia. Diolah dari daging sapi yang direndam dalam kuah rempah yang kaya akan bumbu, rendang memiliki rasa yang kompleks dan kaya. Proses memasaknya yang memakan waktu yang cukup lama membuat daging menjadi sangat empuk&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Rendang adalah salah satu makanan tradisional Indonesia yang terkenal di seluruh dunia. Diolah dari daging sapi yang direndam dalam kuah rempah yang kaya akan bumbu, rendang memiliki rasa yang kompleks dan kaya. Proses memasaknya yang memakan waktu yang cukup lama membuat daging menjadi sangat empuk dan rempah-rempah meresap sempurna. Resep rendang ini dapat diolah dengan daging sapi atau daging kambing, dan dapat dihidangkan dengan nasi atau lontong. Mari mulai memasak dan menikmati kelezatan rendang yang kaya akan rasa dan cita rasa.</p>
+<p>Bahan-bahan:</p>
+<ul>
+<li>1 kg daging sapi (bagian dada atau perut)</li>
+<li>2 liter santan kental</li>
+<li>4 lembar daun kaffir ( daun jeruk )</li>
+<li>2 batang serai, geprek</li>
+<li>4 cm lengkuas, memarkan</li>
+<li>5 buah bawang merah</li>
+<li>5 buah bawang putih</li>
+<li>2 sdt garam</li>
+<li>2 sdt gula pasir</li>
+<li>2 sdt kaldu bubuk</li>
+<li>Bumbu yang dihaluskan:
+<ul>
+<li>10 buah cabe merah</li>
+<li>10 buah cabe rawit</li>
+<li>5 buah kemiri, sangrai</li>
+<li>3 cm kunyit, bakar</li>
+<li>3 cm jahe, bakar</li>
+</ul>
+</li>
+</ul>
+<p>Cara Memasak:</p>
+<ol>
+<li>Potong daging sapi menjadi potongan-potongan kecil dan rendam dalam air panas selama 10 menit. Kemudian tiriskan.</li>
+<li>Panaskan minyak dalam panci besar dan tumis bumbu halus hingga harum.</li>
+<li>Tambahkan daging sapi dan tumis hingga daging berubah warna.</li>
+<li>Tambahkan daun kaffir, serai, lengkuas, bawang merah, bawang putih, garam, gula pasir, dan kaldu bubuk. Aduk rata.</li>
+<li>Tuangkan santan kental dan masak dengan api kecil hingga santan menyusut dan daging empuk. Aduk-aduk secara teratur agar tidak gosong.</li>
+<li>Setelah daging empuk, masak hingga kuah menyusut dan berwarna coklat tua. Angkat dari api dan siap dihidangkan.</li>
+</ol>
+<p>Rendang Padang merupakan salah satu makanan khas dari Sumatera Barat, Indonesia. Makanan ini dikenal dengan cita rasa pedas dan rempah yang kaya, serta daging yang empuk. Proses memasak yang memakan waktu yang cukup lama membuat rasa rempah meresap sempurna ke dalam daging. Makanan ini sering dihidangkan dalam acara-acara keluarga atau perayaan besar.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resep Ibu : Nasi Kuning</title>
         <author>
@@ -17,7 +69,7 @@
         <link href="https://resepdapuribu.github.io/resep-ibu-nasi-kuning.html"/>
         <id>https://resepdapuribu.github.io/resep-ibu-nasi-kuning.html</id>
 
-        <updated>2023-01-29T11:53:11+07:00</updated>
+        <updated>2023-01-29T11:58:13+07:00</updated>
             <summary>
                 <![CDATA[
                     Nasi kuning adalah salah satu makanan khas Indonesia yang digemari oleh banyak orang. Warna kuning yang indah dari nasi ini dihasilkan dari penambahan santan dan bahan-bahan lain seperti daun pandan dan bumbu. Rasanya yang lembut dan gurih sangat cocok dihidangkan dengan berbagai jenis lauk pauk,&hellip;
@@ -28,8 +80,8 @@
                 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
 <div class="markdown prose w-full break-words dark:prose-invert dark">
-<blockquote>
 <p class="align-left">Nasi kuning adalah salah satu makanan khas Indonesia yang digemari oleh banyak orang. Warna kuning yang indah dari nasi ini dihasilkan dari penambahan santan dan bahan-bahan lain seperti daun pandan dan bumbu. Rasanya yang lembut dan gurih sangat cocok dihidangkan dengan berbagai jenis lauk pauk, menciptakan kombinasi yang sempurna. Nasi kuning juga sering dihidangkan pada acara-acara spesial seperti pernikahan atau acara keluarga. Mari mulai memasak dan menikmati kelezatan nasi kuning yang diolah dengan resep klasik ini.</p>
+<blockquote>
 <p class="align-left">Bahan-bahan:</p>
 </blockquote>
 <ul class="align-left">
