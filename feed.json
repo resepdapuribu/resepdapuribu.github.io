@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://resepdapuribu.github.io/spagetti.html",
+            "url": "https://resepdapuribu.github.io/spagetti.html",
+            "title": "Spagetti",
+            "summary": "Spagetti adalah salah satu jenis pasta yang berbentuk panjang dan tipis seperti tali. Spagetti terbuat dari bahan dasar tepung terigu, air, dan garam, yang diformulasikan menjadi pasta. Spagetti sering dikonsumsi sebagai menu makan utama dan dihidangkan dengan berbagai macam saus, seperti saus bolognese, saus keju,&hellip;",
+            "content_html": "<div class=\"w-[30px] flex flex-col relative items-end\">\n<div class=\"relative h-[30px] w-[30px] p-1 rounded-sm text-white flex items-center justify-center\"><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"><strong>Spagetti </strong>adalah salah satu jenis pasta yang berbentuk panjang dan tipis seperti tali. Spagetti terbuat dari bahan dasar tepung terigu, air, dan garam, yang diformulasikan menjadi pasta. Spagetti sering dikonsumsi sebagai menu makan utama dan dihidangkan dengan berbagai macam saus, seperti saus bolognese, saus keju, atau saus tomato. Spagetti juga bisa diolah menjadi berbagai masakan, seperti <em>spagetti carbonara</em>, <em>spagetti aglio e olio</em>, atau <em>spagetti alla puttanesca</em>. Spagetti sangat populer di seluruh dunia dan merupakan pilihan makan yang nikmat dan mudah ditemukan.</span></div>\n<div> </div>\n<div><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://resepdapuribu.github.io/media/posts/4/spagetti.png\" alt=\"\" width=\"683\" height=\"683\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://resepdapuribu.github.io/media/posts/4/responsive/spagetti-xs.png 300w ,https://resepdapuribu.github.io/media/posts/4/responsive/spagetti-sm.png 480w ,https://resepdapuribu.github.io/media/posts/4/responsive/spagetti-md.png 768w\"></figure></div>\n<div>\n<p> </p>\n<blockquote>\n<p>Bahan-bahan:</p>\n</blockquote>\n<ul>\n<li>400 gr spagetti</li>\n<li>4 siung bawang putih</li>\n<li>2 bawang merah</li>\n<li>1 bawang bombai</li>\n<li>1/2 kg daging sapi cincang</li>\n<li>1 cangkir tomat puree</li>\n<li>1/2 cangkir saus tiram</li>\n<li>2 sdm kecap manis</li>\n<li>1/2 sdt gula</li>\n<li>1/2 sdt merica bubuk</li>\n<li>1/2 sdt garam</li>\n<li>1/2 sdt lada hitam</li>\n</ul>\n<blockquote>\n<p>Langkah-langkah:</p>\n</blockquote>\n<ol>\n<li>Rebus spagetti hingga matang dan tiriskan.</li>\n<li>Iris halus bawang putih, bawang merah, dan bawang bombai.</li>\n<li>Tumis bawang putih, bawang merah, dan bawang bombai hingga harum.</li>\n<li>Tambahkan daging sapi cincang dan masak hingga berubah warna.</li>\n<li>Tambahkan tomat puree, saus tiram, kecap manis, gula, merica bubuk, garam, dan lada hitam. Aduk rata.</li>\n<li>Masak hingga bumbu meresap dan daging empuk.</li>\n<li>Siram bumbu daging sapi di atas spagetti yang sudah ditiriskan.</li>\n<li>Sajikan hangat.</li>\n</ol>\n<p>Anda bisa menambahkan bahan lain sesuai selera, misalnya daun bawang atau seledri, untuk menambah rasa.</p>\n</div>\n</div>",
+            "author": {
+                "name": "Ibu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-29T17:24:30+07:00",
+            "date_modified": "2023-01-29T17:24:30+07:00"
+        },
+        {
             "id": "https://resepdapuribu.github.io/resep-ibu-sup-daging.html",
             "url": "https://resepdapuribu.github.io/resep-ibu-sup-daging.html",
             "title": "Sup Daging",
