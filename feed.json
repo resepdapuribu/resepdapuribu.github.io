@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://resepdapuribu.github.io/dendeng-balado.html",
+            "url": "https://resepdapuribu.github.io/dendeng-balado.html",
+            "title": "Dendeng balado",
+            "summary": "Dendeng Balado adalah makanan tradisional Indonesia yang berasal dari Sumatra Barat. Dendeng balado terdiri dari daging sapi yang dipotong tipis dan digoreng hingga kering dan kasar, lalu diolesi dengan bumbu balado yang pedas dan gurih. Bumbu balado terdiri dari cabai, bawang merah, bawang putih, kunyit,&hellip;",
+            "content_html": "<div class=\"flex flex-grow flex-col gap-3\">\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\n<p> </p>\n<p>Dendeng Balado adalah makanan tradisional Indonesia yang berasal dari Sumatra Barat. Dendeng balado terdiri dari daging sapi yang dipotong tipis dan digoreng hingga kering dan kasar, lalu diolesi dengan bumbu balado yang pedas dan gurih.</p>\n<p>Bumbu balado terdiri dari cabai, bawang merah, bawang putih, kunyit, jahe, lengkuas, gula merah, dan garam yang ditumis hingga harum. Bumbu ini membuat dendeng memiliki rasa yang kuat dan khas, dan bisa menimbulkan sensasi rasa pedas dan gurih yang kuat pada mulut. Dendeng balado biasanya disajikan dengan nasi putih dan lauk pauk lain seperti telur, tahu, atau sayuran.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://resepdapuribu.github.io/media/posts/6/dendengbalado.png\" alt=\"\" width=\"1024\" height=\"1024\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://resepdapuribu.github.io/media/posts/6/responsive/dendengbalado-xs.png 300w ,https://resepdapuribu.github.io/media/posts/6/responsive/dendengbalado-sm.png 480w ,https://resepdapuribu.github.io/media/posts/6/responsive/dendengbalado-md.png 768w\"></figure>\n<p> </p>\n<p>Berikut adalah cara membuat dendeng balado :</p>\n<p>Bahan-bahan:</p>\n<ul>\n<li>1 kg daging sapi, dipotong tipis</li>\n<li>1 sendok makan air jeruk nipis</li>\n<li>1 sendok makan air kapur sirih</li>\n<li>Bumbu halus:\n<ul>\n<li>5 bawang merah</li>\n<li>4 bawang putih</li>\n<li>6 cabai merah</li>\n<li>4 cabai rawit</li>\n<li>2 ruas kunyit</li>\n<li>1 ruas jahe</li>\n<li>1 ruas lengkuas</li>\n<li>5 kemiri</li>\n<li>1 sdt garam</li>\n<li>1 sdt gula pasir</li>\n</ul>\n</li>\n<li>Bumbu balado:\n<ul>\n<li>10 cabai merah</li>\n<li>5 bawang merah</li>\n<li>5 bawang putih</li>\n<li>1 ruas kunyit</li>\n<li>1 ruas jahe</li>\n<li>1 ruas lengkuas</li>\n<li>2 sdm gula merah</li>\n<li>1 sdt garam</li>\n<li>1 sdt air asam jawa (optional)</li>\n</ul>\n</li>\n</ul>\n<p>Langkah-langkah:</p>\n<ol>\n<li>Campurkan daging dengan air jeruk nipis dan air kapur sirih. Diamkan selama 30 menit.</li>\n<li>Haluskan bumbu halus dan tumis hingga harum.</li>\n<li>Masukkan daging dan aduk-aduk hingga daging matang.</li>\n<li>Tambahkan garam dan gula pasir. Aduk hingga bumbu meresap.</li>\n<li>Kukus dendeng selama 1-2 jam hingga lembut.</li>\n<li>Buat bumbu balado dengan menumis bumbu halus hingga harum. Tambahkan air asam jawa (jika menggunakan) dan gula merah. Aduk hingga bumbu meresap.</li>\n<li>Goreng dendeng hingga kering dan kasar.</li>\n<li>Sajikan dengan bumbu balado di atas dendeng.</li>\n</ol>\n<p>Anda bisa menambahkan rempah-rempah lain sesuai selera untuk menambah rasa.</p>\n</div>\n</div>\n</div>",
+            "author": {
+                "name": "Ibu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-29T17:54:47+07:00",
+            "date_modified": "2023-01-29T17:54:47+07:00"
+        },
+        {
             "id": "https://resepdapuribu.github.io/nasi-bakar-bumbu-kuning.html",
             "url": "https://resepdapuribu.github.io/nasi-bakar-bumbu-kuning.html",
             "title": "Nasi bakar bumbu kuning",
