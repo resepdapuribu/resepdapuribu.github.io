@@ -9,5 +9,19 @@
         "name": "Ibu"
     },
     "items": [
+        {
+            "id": "https://resepdapuribu.github.io/resep-ibu-nasi-kuning.html",
+            "url": "https://resepdapuribu.github.io/resep-ibu-nasi-kuning.html",
+            "title": "Resep Ibu : Nasi Kuning",
+            "summary": "Nasi kuning adalah salah satu makanan khas Indonesia yang digemari oleh banyak orang. Warna kuning yang indah dari nasi ini dihasilkan dari penambahan santan dan bahan-bahan lain seperti daun pandan dan bumbu. Rasanya yang lembut dan gurih sangat cocok dihidangkan dengan berbagai jenis lauk pauk,&hellip;",
+            "content_html": "<div class=\"flex flex-grow flex-col gap-3\">\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\n<blockquote>\n<p class=\"align-left\">Nasi kuning adalah salah satu makanan khas Indonesia yang digemari oleh banyak orang. Warna kuning yang indah dari nasi ini dihasilkan dari penambahan santan dan bahan-bahan lain seperti daun pandan dan bumbu. Rasanya yang lembut dan gurih sangat cocok dihidangkan dengan berbagai jenis lauk pauk, menciptakan kombinasi yang sempurna. Nasi kuning juga sering dihidangkan pada acara-acara spesial seperti pernikahan atau acara keluarga. Mari mulai memasak dan menikmati kelezatan nasi kuning yang diolah dengan resep klasik ini.</p>\n<p class=\"align-left\">Bahan-bahan:</p>\n</blockquote>\n<ul class=\"align-left\">\n<li>1 liter santan kental</li>\n<li>1 kg beras</li>\n<li>2 lembar daun pandan</li>\n<li>1 sdt garam</li>\n<li>1 sdt gula pasir</li>\n</ul>\n<blockquote>\n<p class=\"align-left\">Cara Memasak:</p>\n</blockquote>\n<ol class=\"align-left\">\n<li>Cuci beras hingga bersih dan rendam selama 30 menit.</li>\n<li>Setelah itu, masukkan beras ke dalam rice cooker atau panci dengan daun pandan.</li>\n<li>Tuangkan santan kental dan tambahkan garam dan gula pasir. Aduk rata.</li>\n<li>Nyalakan rice cooker atau panci dan tunggu hingga nasi matang (jika menggunakan rice cooker) atau tambahkan air jika perlu saat memasak dengan panci.</li>\n<li>Setelah nasi matang, angkat daun pandan dan aduk nasi sebelum dihidangkan.</li>\n</ol>\n<p class=\"align-left\">Nasi kuning ini cocok dihidangkan dengan lauk pauk seperti ayam goreng, ikan goreng, atau sambal. Selain itu, bisa juga dihidangkan dengan telur dadar atau telur mata sapi.</p>\n</div>\n</div>\n</div>\n<div class=\"flex justify-between\">\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-3 md:gap-4 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible align-left\"> </div>\n<div> </div>\n</div>",
+            "author": {
+                "name": "Ibu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-29T11:52:54+07:00",
+            "date_modified": "2023-01-29T11:53:11+07:00"
+        }
     ]
 }

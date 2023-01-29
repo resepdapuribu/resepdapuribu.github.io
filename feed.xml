@@ -3,10 +3,61 @@
     <title>Resep Dapur Ibu</title>
     <link href="https://resepdapuribu.github.io/feed.xml" rel="self" />
     <link href="https://resepdapuribu.github.io" />
-    <updated>1970-01-01T07:00:00+07:00</updated>
+    <updated>2023-01-29T11:53:11+07:00</updated>
     <author>
         <name>Ibu</name>
     </author>
     <id>https://resepdapuribu.github.io</id>
 
+    <entry>
+        <title>Resep Ibu : Nasi Kuning</title>
+        <author>
+            <name>Ibu</name>
+        </author>
+        <link href="https://resepdapuribu.github.io/resep-ibu-nasi-kuning.html"/>
+        <id>https://resepdapuribu.github.io/resep-ibu-nasi-kuning.html</id>
+
+        <updated>2023-01-29T11:53:11+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Nasi kuning adalah salah satu makanan khas Indonesia yang digemari oleh banyak orang. Warna kuning yang indah dari nasi ini dihasilkan dari penambahan santan dan bahan-bahan lain seperti daun pandan dan bumbu. Rasanya yang lembut dan gurih sangat cocok dihidangkan dengan berbagai jenis lauk pauk,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<blockquote>
+<p class="align-left">Nasi kuning adalah salah satu makanan khas Indonesia yang digemari oleh banyak orang. Warna kuning yang indah dari nasi ini dihasilkan dari penambahan santan dan bahan-bahan lain seperti daun pandan dan bumbu. Rasanya yang lembut dan gurih sangat cocok dihidangkan dengan berbagai jenis lauk pauk, menciptakan kombinasi yang sempurna. Nasi kuning juga sering dihidangkan pada acara-acara spesial seperti pernikahan atau acara keluarga. Mari mulai memasak dan menikmati kelezatan nasi kuning yang diolah dengan resep klasik ini.</p>
+<p class="align-left">Bahan-bahan:</p>
+</blockquote>
+<ul class="align-left">
+<li>1 liter santan kental</li>
+<li>1 kg beras</li>
+<li>2 lembar daun pandan</li>
+<li>1 sdt garam</li>
+<li>1 sdt gula pasir</li>
+</ul>
+<blockquote>
+<p class="align-left">Cara Memasak:</p>
+</blockquote>
+<ol class="align-left">
+<li>Cuci beras hingga bersih dan rendam selama 30 menit.</li>
+<li>Setelah itu, masukkan beras ke dalam rice cooker atau panci dengan daun pandan.</li>
+<li>Tuangkan santan kental dan tambahkan garam dan gula pasir. Aduk rata.</li>
+<li>Nyalakan rice cooker atau panci dan tunggu hingga nasi matang (jika menggunakan rice cooker) atau tambahkan air jika perlu saat memasak dengan panci.</li>
+<li>Setelah nasi matang, angkat daun pandan dan aduk nasi sebelum dihidangkan.</li>
+</ol>
+<p class="align-left">Nasi kuning ini cocok dihidangkan dengan lauk pauk seperti ayam goreng, ikan goreng, atau sambal. Selain itu, bisa juga dihidangkan dengan telur dadar atau telur mata sapi.</p>
+</div>
+</div>
+</div>
+<div class="flex justify-between">
+<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-3 md:gap-4 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible align-left"> </div>
+<div> </div>
+</div>
+            ]]>
+        </content>
+    </entry>
 </feed>
