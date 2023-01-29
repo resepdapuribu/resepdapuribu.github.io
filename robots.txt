@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://resepdapuribu.github.io/sitemap.xml
