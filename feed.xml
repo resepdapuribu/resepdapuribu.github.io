@@ -3,12 +3,130 @@
     <title>Resep Dapur Ibu</title>
     <link href="https://resepdapuribu.github.io/feed.xml" rel="self" />
     <link href="https://resepdapuribu.github.io" />
-    <updated>2023-01-30T16:59:48+07:00</updated>
+    <updated>2023-01-30T17:05:03+07:00</updated>
     <author>
         <name>Ibu</name>
     </author>
     <id>https://resepdapuribu.github.io</id>
 
+    <entry>
+        <title>Nasi Goreng</title>
+        <author>
+            <name>Ibu</name>
+        </author>
+        <link href="https://resepdapuribu.github.io/nasi-goreng.html"/>
+        <id>https://resepdapuribu.github.io/nasi-goreng.html</id>
+
+        <updated>2023-01-30T17:05:03+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Nasi Goreng is a popular Indonesian dish made of stir-fried rice, typically mixed with seasonings, vegetables, and protein such as chicken, beef, shrimp, or egg. It's a staple food in Indonesian cuisine and is considered the national dish of the country. It's quick, easy, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Nasi Goreng</strong> is a popular Indonesian dish made of stir-fried rice, typically mixed with seasonings, vegetables, and protein such as chicken, beef, shrimp, or egg. It's a staple food in Indonesian cuisine and is considered the national dish of the country. It's quick, easy, and versatile, making it a popular choice for a quick meal or snack. Nasi Goreng is often served with a variety of condiments and garnishes, including sliced cucumber, crispy fried shallots, and a sweet soy sauce called kecap manis.</p>
+<p><strong>Ingredients</strong>:</p>
+<ul>
+<li>2 cups of cooked rice</li>
+<li>1/2 onion, chopped</li>
+<li>3 cloves of garlic, minced</li>
+<li>1 large tomato, diced</li>
+<li>1 large carrot, diced</li>
+<li>1/2 cup of frozen green peas</li>
+<li>2 tablespoons of kecap manis (sweet soy sauce)</li>
+<li>2 tablespoons of soy sauce</li>
+<li>2 tablespoons of oil</li>
+<li>Salt and pepper to taste</li>
+<li>2 large eggs, lightly beaten</li>
+<li>Fresh chopped scallions and cucumber, for serving</li>
+</ul>
+<p><strong>Instructions</strong>:</p>
+<ol>
+<li>Heat oil in a large wok or frying pan over medium heat.</li>
+<li>Add onion and garlic, cook until fragrant and softened.</li>
+<li>Add the diced tomato and cook until it's soft.</li>
+<li>Add the diced carrots and frozen green peas, cook for 2-3 minutes until tender.</li>
+<li>Push the vegetables to one side of the pan and add the beaten eggs to the other side. Scramble the eggs until cooked.</li>
+<li>Add the cooked rice to the pan and stir to combine with the vegetables and eggs.</li>
+<li>Add the kecap manis, soy sauce, salt, and pepper to taste. Stir until the rice is evenly coated.</li>
+<li>Serve with fresh chopped scallions and cucumber on the side.</li>
+</ol>
+<p><strong>Notes</strong>:</p>
+<ul>
+<li>You can use any vegetables you like in this dish. Try adding sliced mushrooms, diced bell peppers, or shredded cabbage for variation.</li>
+<li>Use day-old rice for the best texture, as fresh rice can get too sticky when stir-fried.</li>
+<li>Kecap manis is a sweet soy sauce commonly used in Indonesian cooking. If you can't find it, you can substitute with regular soy sauce and add 1 tablespoon of brown sugar.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gado-Gado</title>
+        <author>
+            <name>Ibu</name>
+        </author>
+        <link href="https://resepdapuribu.github.io/gado-gado.html"/>
+        <id>https://resepdapuribu.github.io/gado-gado.html</id>
+
+        <updated>2023-01-30T17:01:31+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Gado-Gado adalah salah satu makanan tradisional Indonesia yang terkenal dengan rasa gurih dan segar. Terdiri dari berbagai macam sayur-sayuran dan bahan lain seperti tahu, tempe, kacang, dan bumbu kacang, Gado-Gado memiliki cita rasa unik dan kaya. Berikut adalah resep dan catatan penting saat membuat Gado-Gado:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p class="align-left">Gado-Gado adalah salah satu makanan tradisional Indonesia yang terkenal dengan rasa gurih dan segar. Terdiri dari berbagai macam sayur-sayuran dan bahan lain seperti tahu, tempe, kacang, dan bumbu kacang, Gado-Gado memiliki cita rasa unik dan kaya. Berikut adalah resep dan catatan penting saat membuat Gado-Gado:</p>
+<p class="align-left">Bahan-bahan:</p>
+<ul class="align-left">
+<li>1 porsi tahu, potong-potong</li>
+<li>1 porsi tempe, potong-potong</li>
+<li>1 cangkir kacang tanah, sangrai</li>
+<li>2 buah kentang, rebus dan potong-potong</li>
+<li>2 buah buncis, rebus</li>
+<li>2 buah wortel, rebus dan potong-potong</li>
+<li>2 buah kacang hijau, rebus</li>
+<li>Daun selada secukupnya</li>
+<li>Bumbu kacang:
+<ul>
+<li>200 gram kacang tanah</li>
+<li>5 siung bawang merah</li>
+<li>3 siung bawang putih</li>
+<li>2 buah cabai merah</li>
+<li>1 sendok teh ketumbar</li>
+<li>1 sendok teh gula merah</li>
+<li>1 sendok teh garam</li>
+<li>1 sendok makan air asam jawa</li>
+<li>2 sendok makan minyak goreng</li>
+</ul>
+</li>
+</ul>
+<p class="align-left">Cara membuat:</p>
+<ol class="align-left">
+<li>Blend bumbu kacang hingga halus.</li>
+<li>Panaskan minyak goreng dan tumis bumbu kacang hingga harum.</li>
+<li>Tambahkan air asam jawa, garam, gula merah, dan aduk rata.</li>
+<li>Tambahkan sayur-sayuran dan tahu, tempe, kacang. Aduk rata.</li>
+<li>Sajikan dengan daun selada dan kentang rebus sebagai pelengkap.</li>
+</ol>
+<p class="align-left">Catatan penting saat membuat Gado-Gado:</p>
+<ul>
+<li class="align-left">Gunakan sayur-sayuran dan bahan lain yang segar dan berkualitas baik agar rasa lebih enak.</li>
+<li class="align-left">Bumbu kacang bisa disesuaikan sesuai selera, misalnya menambahkan cabai sesuai tingkat kepedasan yang diinginkan.</li>
+<li class="align-left">Pilih air asam jawa yang berkualitas baik agar hasil masakan lebih asam dan segar.</li>
+<li class="align-left">Tumis bumbu kacang hingga harum agar bumbu lebih meresap dan rasa lebih kuat.</li>
+<li class="align-left">Jangan terlalu lama memasak sayur-sayuran agar tidak hancur dan masih terasa segar.</li>
+</ul>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rujak Cingur</title>
         <author>
@@ -435,127 +553,6 @@
 </div>
 <div class="flex justify-between">
 <div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-3 md:gap-4 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"> </div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ayam Betutu Bali</title>
-        <author>
-            <name>Ibu</name>
-        </author>
-        <link href="https://resepdapuribu.github.io/ayam-betutu-bali.html"/>
-        <id>https://resepdapuribu.github.io/ayam-betutu-bali.html</id>
-
-        <updated>2023-01-29T19:48:14+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Ayam betutu adalah masakan khas Bali yang terdiri dari ayam yang dibumbui dan dibungkus daun pisang, lalu dipanggang hingga matang.Rempah-rempah khas yang digunakan dalam memasak ayam betutu adalah bawang merah, bawang putih, kunyit bubuk, jahe bubuk, dan merica bubuk.Ayam betutu memiliki rasa yang gurih dan&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-left">Ayam betutu adalah masakan khas Bali yang terdiri dari ayam yang dibumbui dan dibungkus daun pisang, lalu dipanggang hingga matang.Rempah-rempah khas yang digunakan dalam memasak ayam betutu adalah bawang merah, bawang putih, kunyit bubuk, jahe bubuk, dan merica bubuk.Ayam betutu memiliki rasa yang gurih dan kuat, karena rempah-rempah yang digunakan dalam memasaknya.Ayam betutu disajikan dengan kecap manis dan air asam jawa yang memberikan rasa manis dan asam pada ayam betutu.</p>
-<p><strong>Resep Ayam Betutu:</strong></p>
-<p><strong>Bahan</strong>:</p>
-<ul>
-<li>1 ekor ayam, potong 8 bagian</li>
-<li>5 siung bawang merah, haluskan</li>
-<li>3 siung bawang putih, haluskan</li>
-<li>1 sdt kunyit bubuk</li>
-<li>1 sdt jahe bubuk</li>
-<li>1 sdt merica bubuk</li>
-<li>1 sdt garam</li>
-<li>1/2 sdt gula merah</li>
-<li>2 lembar daun jeruk</li>
-<li>4 sdm kecap manis</li>
-<li>1 sdt air asam jawa</li>
-<li>Daun pisang untuk membungkus</li>
-</ul>
-<p><strong>Langkah-langkah:</strong></p>
-<ol>
-<li>Campur bawang merah, bawang putih, kunyit bubuk, jahe bubuk, merica bubuk, garam, gula merah, dan daun jeruk dalam wadah.</li>
-<li>Lumuri ayam dengan bumbu tadi dan diamkan selama 2 jam.</li>
-<li>Bungkus ayam dengan daun pisang.</li>
-<li>Panggang ayam selama 1 jam hingga matang.</li>
-<li>Sajikan ayam betutu dengan kecap manis dan air asam jawa.</li>
-</ol>
-<p> </p>
-<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
-<div class="flex flex-grow flex-col gap-3">
-<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
-<div class="markdown prose w-full break-words dark:prose-invert dark">
-<p><strong>Catatan:</strong></p>
-<ul>
-<li>Diamkan ayam selama 2 jam agar bumbu meresap dan rasa ayam betutu lebih kuat.</li>
-<li>Jangan lupa untuk membungkus ayam dengan daun pisang agar ayam tidak kering saat dipanggang.</li>
-<li>Panggang ayam betutu dengan suhu sedang dan jangan terlalu dekat dengan api agar ayam matang dengan sempurna dan tidak terbakar.</li>
-<li>Kecap manis dan air asam jawa adalah pelengkap yang wajib dalam menyajikan ayam betutu.</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="flex justify-between">
-<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-3 md:gap-4 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"> </div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Soto Lamongan </title>
-        <author>
-            <name>Ibu</name>
-        </author>
-        <link href="https://resepdapuribu.github.io/soto-lamongan.html"/>
-        <id>https://resepdapuribu.github.io/soto-lamongan.html</id>
-
-        <updated>2023-01-29T19:44:51+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Soto Lamongan adalah varian masakan soto yang berasal dari Lamongan, Jawa Timur, Indonesia. Soto adalah masakan tradisional Indonesia yang terdiri dari kaldu daging sapi dan sayuran, disajikan dalam mangkuk. Soto Lamongan memiliki ciri khas bumbu yang kuat dan rasa yang gurih dan segar. Bahan-bahan yang&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="flex flex-grow flex-col gap-3">
-<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
-<div class="markdown prose w-full break-words dark:prose-invert dark"><strong>Soto Lamongan</strong> adalah varian masakan soto yang berasal dari Lamongan, Jawa Timur, Indonesia. Soto adalah masakan tradisional Indonesia yang terdiri dari kaldu daging sapi dan sayuran, disajikan dalam mangkuk. <strong>Soto Lamongan</strong> memiliki ciri khas bumbu yang kuat dan rasa yang gurih dan segar. Bahan-bahan yang digunakan dalam memasak soto Lamongan meliputi daging sapi, bawang putih, kemiri, garam, gula merah, kaldu bubuk, daun jeruk, serai, dan sereh. Soto Lamongan disajikan dengan taburan bawang goreng, ketumbar goreng, daun bawang, dan kemangi.</div>
-<div> </div>
-<div>
-<p><strong>Resep Soto Lamongan lezat:</strong></p>
-<p><strong>Bahan:</strong></p>
-<ul>
-<li>1 kg daging sapi, potong-potong kecil</li>
-<li>2 liter air</li>
-<li>4 siung bawang putih, haluskan</li>
-<li>4 butir kemiri, sangrai dan haluskan</li>
-<li>1 sdt garam</li>
-<li>1/2 sdt gula merah</li>
-<li>1 sdt kaldu bubuk</li>
-<li>4 lembar daun jeruk, iris halus</li>
-<li>1 batang serai, memarkan</li>
-<li>1 batang sereh, geprek</li>
-<li>Bawang goreng</li>
-<li>Ketumbar goreng</li>
-<li>Daun bawang, iris</li>
-<li>Kemangi, iris</li>
-</ul>
-<p><strong>Langkah-langkah :</strong></p>
-<ol>
-<li>Rebus air bersama daging sapi, bawang putih, kemiri, garam, gula merah, kaldu bubuk, daun jeruk, serai, dan sereh hingga daging empuk.</li>
-<li>Angkat daging dan potong-potong kecil. Saring kaldu rebusan dan sisihkan.</li>
-<li>Panaskan kaldu rebusan dan masukkan daging potongan, aduk hingga rata.</li>
-<li>Sajikan soto lamongan dalam mangkuk, taburi dengan bawang goreng, ketumbar goreng, daun bawang, dan kemangi.</li>
-</ol>
-<p><strong>Catatan:</strong></p>
-<ul>
-<li>Gunakan daging sapi yang segar dan lembut.</li>
-<li>Saring kaldu rebusan agar tidak ada bahan-bahan yang tidak tercampur rata.</li>
-<li>Panaskan kaldu rebusan sebelum dimasukkan daging potongan agar rasa soto semakin kuat.</li>
-</ul>
-</div>
-</div>
 </div>
             ]]>
         </content>
