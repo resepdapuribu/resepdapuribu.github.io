@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://resepdapuribu.github.io/test.html",
-            "url": "https://resepdapuribu.github.io/test.html",
-            "title": "test",
-            "summary": "test",
-            "content_html": "<p>test</p>",
-            "author": {
-                "name": "Ibu"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-22T22:01:16+07:00",
-            "date_modified": "2023-03-22T22:01:16+07:00"
-        },
-        {
             "id": "https://resepdapuribu.github.io/ikan-cakalang-asar-kemewahan-asap-dari-papua-barat.html",
             "url": "https://resepdapuribu.github.io/ikan-cakalang-asar-kemewahan-asap-dari-papua-barat.html",
             "title": "Ikan Cakalang Asar, Kemewahan Asap dari Papua Barat",
@@ -148,6 +134,20 @@
             ],
             "date_published": "2023-01-30T18:14:16+07:00",
             "date_modified": "2023-01-30T18:14:16+07:00"
+        },
+        {
+            "id": "https://resepdapuribu.github.io/coto-makassar.html",
+            "url": "https://resepdapuribu.github.io/coto-makassar.html",
+            "title": "Coto Makassar",
+            "summary": "Coto Makassar adalah masakan sup tradisional dari kota Makassar, yang terletak di Sulawesi Selatan, Indonesia. Sup ini kaya rasa dan berkuah yang dibuat dari daging sapi, bagian dalam, dan bumbu, dan merupakan masakan populer untuk acara khusus dan perayaan. Berikut adalah resep untuk membuat Coto&hellip;",
+            "content_html": "<div class=\"flex flex-grow flex-col gap-3\">\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\n<p class=\"align-left\">Coto Makassar adalah masakan sup tradisional dari kota Makassar, yang terletak di Sulawesi Selatan, Indonesia. Sup ini kaya rasa dan berkuah yang dibuat dari daging sapi, bagian dalam, dan bumbu, dan merupakan masakan populer untuk acara khusus dan perayaan. Berikut adalah resep untuk membuat Coto Makassar:</p>\n<p class=\"align-left\">Bahan:</p>\n<ul class=\"align-left\">\n<li>500 gr daging sapi, potong-potong</li>\n<li>200 gr bagian dalam sapi (hati, usus, jantung)</li>\n<li>1 liter air</li>\n<li>4 siung bawang merah, cincang halus</li>\n<li>3 siung bawang putih, cincang halus</li>\n<li>1 ruas jahe, geprek</li>\n<li>1 ruas kunyit, geprek</li>\n<li>1 sdt garam</li>\n<li>1 sdt gula merah</li>\n<li>1/2 sdt merica bubuk</li>\n<li>1 sdt ketumbar bubuk</li>\n<li>2 daun salam</li>\n<li>2 batang sereh, geprek</li>\n<li>Bawang goreng untuk taburan</li>\n</ul>\n<p class=\"align-left\">Cara membuat:</p>\n<ol class=\"align-left\">\n<li>Rebus daging sapi dan bagian dalam dalam air hingga empuk.</li>\n<li>Tumis bawang merah, bawang putih, jahe, dan kunyit hingga harum.</li>\n<li>Tambahkan garam, gula merah, merica, ketumbar, daun salam, dan sereh, aduk rata.</li>\n<li>Tuang bumbu tumisan ke dalam air rebusan daging. Masak hingga bumbu meresap ke dalam daging.</li>\n<li>Sajikan coto dalam mangkuk dan taburi dengan bawang goreng.</li>\n</ol>\n<p class=\"align-left\">Catatan penting:</p>\n<ul class=\"align-left\">\n<li>Gunakan daging sapi yang segar dan bagian dalam yang bersih untuk hasil coto yang lezat.</li>\n<li>Anda bisa menambahkan bahan lain seperti wortel, kentang, atau buncis untuk variasi rasa.</li>\n<li>Jika suka pedas, tambahkan cabai merah atau cabai rawit ke dalam tumisan bumbu.</li>\n<li>Sajikan coto panas-panas untuk rasa yang terbaik.</li>\n</ul>\n<p class=\"align-left\">Demikianlah resep membuat Coto Makassar, masakan lezat yang berasal dari Sulawesi Selatan. Nikmati coto bersama keluarga dan teman-teman untuk acara spesial atau hanya sebagai masakan harian.</p>\n</div>\n</div>\n</div>",
+            "author": {
+                "name": "Ibu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-30T18:10:04+07:00",
+            "date_modified": "2023-01-30T18:10:04+07:00"
         }
     ]
 }
